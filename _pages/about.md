@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Block B, Wanda Mall Center</p>
+    <p>Wanda Mall Center</p>
     <p>Xigang Street</p>
-    <p>Nanjing, Jiangsu Province</p>
+    <p>Nanjing, Jiangsu</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
