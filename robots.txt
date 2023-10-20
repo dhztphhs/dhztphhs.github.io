@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dhztphhs.github.io/sitemap.xml
