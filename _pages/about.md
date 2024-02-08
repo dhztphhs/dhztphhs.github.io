@@ -19,5 +19,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Xu Shuangyi. I was born in Wuxi, Jiangsu Province. I graduated from the College of Art and Design of Beijing Forestry University. My major is digital media art.
-During my undergraduate period, I attached great importance to the study of professional subjects. My overall GPA is 3.71, ranking third. I have obtained one special scholarship for freshmen, one first class scholarship, two third class scholarships, and multiple academic excellence scholarships. In addition, I am also actively involved in various design projects. One of them ultimately won the first prize in the China University Computer Design Competition.
+本科毕业于北京林业大学艺术设计学院，专业为数字媒体艺术，主修交互设计、视听语言、平面设计、用户体验研究等课程，绩点排名3/34，多次获得专业特等奖学金、优秀学生一等奖学金、三等奖学金、学术优秀奖学金等荣誉，熟练掌握PS、AI、PR等数字媒体设计技能，审美素养良好。
+硕士就读于南京大学新闻与传播学院，攻读新闻与传播专业硕士（数字营销传播方向），主修数字营销、媒介经营管理等课程。
