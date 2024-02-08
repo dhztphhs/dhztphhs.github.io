@@ -3,7 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-name: 许双逸
+first_name: 许
+last_name: 双逸
 email: 867579865@qq.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
    “A woman must have money and a room of her ownif she is to write fiction.”
@@ -13,7 +14,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
-lang: cn # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://dhztphhs.github.io # the base hostname & protocol for your site
@@ -143,7 +144,7 @@ giscus:
   input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
-  lang: cn
+  lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
