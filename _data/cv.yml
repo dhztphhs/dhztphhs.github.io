@@ -1,4 +1,4 @@
-- title: General Information
+- title: 自我介绍
   type: map
   contents:
     - name: 姓名
@@ -50,6 +50,6 @@
     - year: 2019-09
       items:
         - 新生专业特等奖学金
-    - year: 2019-09、2020-09、2021-09
+    - year: 2019-2021
       items:
         - 优秀学生一等奖学金、三等奖学金、学术优秀奖学金等
