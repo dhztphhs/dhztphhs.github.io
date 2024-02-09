@@ -1,97 +1,55 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: 姓名
+      value: 许双逸
+    - name: 出生日期
+      value: 2000-01-28
     - name: Languages
-      value: English, German
+      value: Chinese，English
 
-- title: Education
+- title: 教育背景
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: 艺术学学士
+      institution: 北京林业大学
+      year: 2018-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        艺术设计学院数字媒体技术专业
+        主修课程：数字媒体艺术基础、交互设计、数字版式设计、视听语言、用户体验研究等等
+    - title: 新闻与传播专业硕士
+      institution: 南京大学
+      year: 2023-2026
       description:
-        - Description 1.
-        - Description 2.
+        数字营销传播方向
+        主修课程：数字营销、媒介经营与管理、新媒体研究等等
 
-- title: Experience
+- title: 学历背景
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: 实习记者
+      institution: 无锡日报报业集团
+      year: 2023-07
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        主要负责与带教老师共同完成采访任务，编辑视频素材，写作稿件等等
+    - title: 新媒体运营实习
+      institution: 光明日报
+      year: 2024-01
       description:
-        - Description 1.
-        - Description 2.
+        主要负责日常监测教育热点、运营公众号光明微教育、编辑稿件等等
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: 项目经历
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: 《京绎》AP
+      description:  《京绎》为京剧迷构建一个专属的社区，可以进行与京剧相关的一切线上活动（听戏、购票、社交等）。设计时融合了传统元素，让产品符合现代用户的审美价值和使用需求。最终作品获得第十三届中国大学生计算机设计大赛（交互媒体设计组）全国一等奖、第十五届“创意中国”设计大赛三等奖。
 
-- title: Honors and Awards
+- title: 获奖经历
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019-09
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - 新生专业特等奖学金
+    - year: 2019-09、2020-09、2021-09
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - 优秀学生一等奖学金、三等奖学金、学术优秀奖学金等
